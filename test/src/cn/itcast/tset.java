@@ -14,5 +14,6 @@ public class tset {
         System.out.println(999999);
         System.out.println(999999);
         System.out.println(444444);
+        System.out.println(666666);
     }
 }
